@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slate299
-- 👀 I’m interested in music
+- 👀 I’m interested in gaming and music
 - 🌱 I’m currently learning programming and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
