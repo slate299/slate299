@@ -81,7 +81,7 @@ coffee_consumed: ☕☕☕☕☕ (underestimated)
 
 <div align="center">
 
-### 🏨 [Baraka Bliss Staycations](https://github.com/slate299/baraka-bliss-staycations)
+### 🏨 [Baraka Bliss Staycations]([https://github.com/slate299/baraka-bliss-staycations](https://github.com/slate299/baraka-bliss-staycations-frontend))
 *React • Node.js • MongoDB • Tailwind CSS*
 
 A full-stack booking platform for luxury apartment rentals in Kenya. Built for a real client with:
@@ -90,7 +90,7 @@ A full-stack booking platform for luxury apartment rentals in Kenya. Built for a
 - ✅ Kenyan phone validation + WhatsApp integration
 - ✅ **80% reduction in manual booking work**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-vercel?style=flat-square&logo=vercel&logoColor=white&color=purple)](https://barakabliss.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-vercel?style=flat-square&logo=vercel&logoColor=white&color=purple)](https://barakabliss.vercel.app](https://baraka-bliss-staycations-frontend.vercel.app))
 [![GitHub](https://img.shields.io/badge/Code-GitHub?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/slate299/baraka-bliss-staycations)
 
 ---
