@@ -29,7 +29,7 @@ current_focus:
   - Exploring Data Science & AI
 
 hackathons: 5+ participated
-coffee_consumed: ☕☕☕☕☕ (underestimated)
+coffee_consumed: ☕☕☕☕☕ (definitely more)
 ```
 
 ---
@@ -81,7 +81,7 @@ coffee_consumed: ☕☕☕☕☕ (underestimated)
 
 <div align="center">
 
-### 🏨 [Baraka Bliss Staycations]([https://github.com/slate299/baraka-bliss-staycations](https://github.com/slate299/baraka-bliss-staycations-frontend))
+### 🏨 **Baraka Bliss Staycations**
 *React • Node.js • MongoDB • Tailwind CSS*
 
 A full-stack booking platform for luxury apartment rentals in Kenya. Built for a real client with:
@@ -90,12 +90,12 @@ A full-stack booking platform for luxury apartment rentals in Kenya. Built for a
 - ✅ Kenyan phone validation + WhatsApp integration
 - ✅ **80% reduction in manual booking work**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-vercel?style=flat-square&logo=vercel&logoColor=white&color=purple)](https://barakabliss.vercel.app](https://baraka-bliss-staycations-frontend.vercel.app))
-[![GitHub](https://img.shields.io/badge/Code-GitHub?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/slate299/baraka-bliss-staycations)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-purple?style=for-the-badge&logo=vercel)](https://baraka-bliss-staycations-frontend.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/slate299/baraka-bliss-staycations-frontend)
 
 ---
 
-### 🧠 [NeuraTrack API](https://github.com/slate299/neuratrack-backend)
+### 🧠 **NeuraTrack API**
 *Node.js • Express • PostgreSQL • JWT*
 
 HIPAA-compliant healthcare API for epilepsy tracking:
@@ -104,12 +104,12 @@ HIPAA-compliant healthcare API for epilepsy tracking:
 - ✅ JWT authentication
 - ✅ Deployed on Render
 
-[![API](https://img.shields.io/badge/API-Live?style=flat-square&logo=render&logoColor=white&color=green)](https://neuratrack-backend.onrender.com)
-[![GitHub](https://img.shields.io/badge/Code-GitHub?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/slate299/neuratrack-backend)
+[![API](https://img.shields.io/badge/API-Live-green?style=for-the-badge&logo=render)](https://neuratrack-backend.onrender.com)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/slate299/neuratrack-backend)
 
 ---
 
-### 🌾 [Agri-Match](https://github.com/slate299/agri-match)
+### 🌾 **Agri-Match**
 *Django • MySQL • JavaScript • HTML/CSS*
 
 Agricultural marketplace connecting farmers with machinery rentals:
@@ -118,11 +118,11 @@ Agricultural marketplace connecting farmers with machinery rentals:
 - ✅ SDG 2 (Zero Hunger) aligned
 - ✅ eMobilis final project
 
-[![GitHub](https://img.shields.io/badge/Code-GitHub?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/slate299/agri-match)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/slate299/agri-match)
 
 ---
 
-### 🏆 Hackathon Projects
+### 🏆 **Hackathon Projects**
 *Node.js • Express • MongoDB*
 
 Backend developer for 5+ hackathons:
@@ -130,7 +130,21 @@ Backend developer for 5+ hackathons:
 - **Canopy** - Environmental monitoring API
 - **DryPlan** - Weather-aware event planning
 
-[![GitHub](https://img.shields.io/badge/View_Projects-GitHub?style=flat-square&logo=github&logoColor=white&color=black)](https://github.com/slate299?tab=repositories)
+[![GitHub](https://img.shields.io/badge/View_Projects-GitHub-black?style=for-the-badge&logo=github)](https://github.com/slate299?tab=repositories)
+
+</div>
+
+---
+
+## 📚 **Currently Learning**
+
+<div align="center">
+  
+| Skill | Progress |
+|-------|----------|
+| **R for Data Analysis** | ████░░░░░░ 40% |
+| **Advanced Flutter** | ███░░░░░░░ 30% |
+| **System Design** | ██░░░░░░░░ 25% |
 
 </div>
 
@@ -147,17 +161,6 @@ Backend developer for 5+ hackathons:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slate299&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C77DFF&ring=C77DFF&fire=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
   
 </div>
-
----
-
-## 📈 **Coding Activity**
-
-<!--START_SECTION:waka-->
-```text
-Total Hours: 1,500+ hours of coding
-Most Active: 9 PM - 2 AM (night owl mode 🦉)
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -186,7 +189,7 @@ Most Active: 9 PM - 2 AM (night owl mode 🦉)
 
 <div align="center">
   
-### ⚡ Fun Fact
+### ⚡ **Fun Fact**
 **I started coding in September 2024 and built my first production app for a real client within a year!** 
 
 *If you've read this far, you're awesome. Now go build something cool!* 🚀
